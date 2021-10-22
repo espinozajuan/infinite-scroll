@@ -2,9 +2,11 @@
 
 - Javascript infinite image scrolling using https://unsplash.com/ API.
 
-### Usage
+![](https://im2.ezgif.com/tmp/ezgif-2-8f1037fd6220.gif)
 
-- You will have to create an Unsplash account in order to get your own API Key, then replace that in script.js
+### Disclaimer
+
+- Retrieve your API Key by creating an Unsplash account, then replace it inside the script.
 
 ```javascript
     const count = 30;
