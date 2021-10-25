@@ -2,7 +2,7 @@
 
 - Javascript infinite image scrolling using https://unsplash.com/ API.
 
-![](https://im2.ezgif.com/tmp/ezgif-2-8f1037fd6220.gif)
+![](https://i.imgur.com/pf6Lf1E.gif)
 
 ### Disclaimer
 
